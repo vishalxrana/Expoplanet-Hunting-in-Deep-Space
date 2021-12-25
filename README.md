@@ -1,12 +1,12 @@
 # Expoplanet-Hunting-in-Deep-Space 
-![Outer Space](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/Images/outer%20space.png)
-
 The dataset for this project was found on [Kaggle](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data)
 
-## What is an Exoplanet?
-![Kepler Exoplanet](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/Images/exoplanet.jpg)
+![Outer Space](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/Images/outer%20space.png)
 
+## What is an Exoplanet?
 An Exoplanet is a planet which is not a part of out solar system. A Planet which might be a part of other star system (which would resemble to our solar system) could be called an exoplanet. Search for these exoplanets have been going on for decades in the hopes of finding an Earth-like planet which might be habitble to living organisms or hopefully Aliens.
+
+![Kepler Exoplanet](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/Images/exoplanet.jpg)
 
 ## How exoplanets are detected? 
 An exoplanet has to be orbiting a star, that is one of the consideration for being a planet. So as the exoplanet is orbiting a star, there are flux intensities (the light intensities) which can be measured. Planets themselves does not emit light but the star they oribiting doe. As the planet revolves around the star, the flux intensities changes with respect to time. Ocassional dimming can be seen over a period of months and years while observing it. This can imply that there exist an exoplanet and it is oribiting a star in a far far star system perhaps. This planet can then be considered a candidate and can go under inspection to be further confirmed.  
