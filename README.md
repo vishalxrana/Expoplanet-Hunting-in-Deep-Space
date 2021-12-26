@@ -30,7 +30,7 @@ The below image shows the flux intensity of a exoplanet star randomly selected f
 ![Exoplanet Flux intensity](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/Images/Label%202.png)
 
 ## Project 
-The project was done firstly using Machine Learning algorithms. It is a classification project and I tried different machine learning classification models. For example, Logistics Regression, SVC, K-means, etc. The dataset here is extremely imbalanced. It was hence difficult for machine learning models to be great at predicting. The jupyter notebook can be found [here](). As I went further in my learning journey and learnt about Neural networks, I created models which was far better than the earlier machine learning models which I made. I used Convolution Neural Networks in 1D with tensorflow for creating a neural network model. The neural net jupyter notebook can be found [here]().
+The project was done firstly using Machine Learning algorithms. It is a classification project and I tried different machine learning classification models. For example, Logistics Regression, SVC, K-means, etc. The dataset here is extremely imbalanced. It was hence difficult for machine learning models to be great at predicting. The jupyter notebook can be found [here](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/exploplanet_hunting.ipynb). As I went further in my learning journey and learnt about Neural networks, I created models which was far better than the earlier machine learning models which I made. I used Convolution Neural Networks in 1D with tensorflow for creating a neural network model. The neural net jupyter notebook can be found [here](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/exoplanet_hunting_with_neural_nets.ipynb).
 
 ### Dataset
 The training set here consisted of **37 exoplanets** and **5050 non-exoplanets**. 
@@ -45,7 +45,9 @@ The alternative which can be used here is, evaluating the model based on the Con
 ![Confusion Metrics](https://github.com/VishalxRana/Expoplanet-Hunting-in-Deep-Space/blob/master/Images/Confusion%20matrix.png)
 
 Label 1 is converted to label 0 and label 2 is converted to label 1.
+
 Label 1 -> Label 0
+
 Label 2 -> Label 1
 
 # Conclusion 
